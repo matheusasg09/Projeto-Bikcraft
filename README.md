@@ -16,11 +16,13 @@
   <img alt="Frontend" src="img/Bikcraft-git.png" width="70%">
 </p>
 
-## Projeto
+## ◾ Projeto
 
 O Bikcraft é um projeto totalmente responsivo feito com HTML, CSS e Javascript puro. O principal intuito era não usar nenhuma biblioteca ou framework para treinar tecnicas de CSS e Javascript.
 
-## Tecnologias
+🌐 Visitar o site: [Bikcraft.com](https://bikcraft.com/)
+
+## ◾ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -29,6 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PHP](https://www.php.net/docs.php)
 
-## Licença
+## ◾ Licença
 
 Esse projeto está sob a licença MIT.
