@@ -5,8 +5,8 @@
 <p align="center">   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-Bikcraft">
   
-  <a href="https://github.com/matheusasg09/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/semana-omnistack-9.svg">
+  <a href="https://github.com/matheusasg09/Projeto-Bikcraft/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-Bikcraft">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
