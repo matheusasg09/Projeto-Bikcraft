@@ -12,6 +12,10 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+<p align="center">
+  <img alt="Frontend" src="img/Bikcraf-git.png" width="70%">
+</p>
+
 ## Projeto
 
 O Bikcraft é um projeto totalmente responsivo feito com HTML, CSS e Javascript puro. O principal intuito era não usar nenhuma biblioteca ou framework para treinar tecnicas de CSS e Javascript.
