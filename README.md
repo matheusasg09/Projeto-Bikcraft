@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="img/Bikcraf-git.png" width="70%">
+  <img alt="Frontend" src="Projeto-Bikcraft/img/Bikcraft-git.png" width="70%">
 </p>
 
 ## Projeto
