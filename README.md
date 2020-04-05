@@ -14,7 +14,7 @@
 
 ## Projeto
 
-O Bikcraft é um projeto totalmente responsivo feito com HTML, CSS e Javascript puro.
+O Bikcraft é um projeto totalmente responsivo feito com HTML, CSS e Javascript puro. O principal intuito era não usar nenhuma biblioteca ou framework para treinar tecnicas de CSS e Javascript.
 
 ## Tecnologias
 
