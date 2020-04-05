@@ -24,8 +24,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Licença
 
 Esse projeto está sob a licença MIT.
-
-## Agradecimentos
-
-* [Origamid](https://www.origamid.com/)
-
