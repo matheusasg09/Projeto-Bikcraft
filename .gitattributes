@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-* linguist-vendored
-*.php linguist-vendored=false
-*.HTML linguist-detectable=true
+static/* linguist-vendored
+site_cartao/static/* linguist-vendored
+site_cartao/templates/* linguist-vendored
