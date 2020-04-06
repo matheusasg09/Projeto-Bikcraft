@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ◾ Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT
