@@ -8,6 +8,8 @@
    <a href="https://github.com/matheusasg09/Projeto-Bikcraft/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-Bikcraft">
   </a>
+  
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/matheusasg09/Projeto-Bikcraft">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
