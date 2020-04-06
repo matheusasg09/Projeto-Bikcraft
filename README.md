@@ -6,11 +6,12 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-Bikcraft">
   
    <a href="https://github.com/matheusasg09/Projeto-Bikcraft/commits/master">
+    <img alt="GitHub commits" src="https://badgen.net/github/commits/matheusasg09/Projeto-Bikcraft">
+  </a>
+    <a href="https://github.com/matheusasg09/Projeto-Bikcraft/commits/master">
     <img alt="GitHub last commit" src="https://badgen.net/github/last-commit/matheusasg09/Projeto-Bikcraft">
   </a>
   
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/matheusasg09/Projeto-Bikcraft">
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
